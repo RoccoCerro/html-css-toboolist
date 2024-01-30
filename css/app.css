@@ -74,6 +74,14 @@ header{
     display: inline-block;
 }
 
+.editorial {
+    background-color: rgb(0, 102, 244);
+    font-size: 12px;
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+}
+
 #add-task {
     background-color: rgb(0, 106, 255);
     border-radius: 5px;
