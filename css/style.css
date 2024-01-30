@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,
+ol{
+    list-style: none;
+}
+
+body{
+    background-color: lightgray;
+}
+
+header{
+    height: 70px;
+    background-color: white;
+    padding: 8px;
+}
+
+main{
+    padding-top: 25px;
+}
+
+.title-logo{
+    height: 70px;
+    line-height: 35px;
+    vertical-align: middle;
+}
+
+.container{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    padding-left: 35px;
+    border-bottom: 2px solid lightgray;
+}
+
+.format{
+    display: inline-block;
+}
+
+.editorial{
+    background-color: rgb(0, 149, 255);
+}
+
+.container-tm{
+    border-radius: 13px;
+    padding: 5px 12px;
+    color: white;
+    font-size: 10px;
+}
+
+.list{
+    margin-bottom: 15px;
+}
+
+.container-add{
+    border-radius: 6px;
+    padding: 5px 9px;
+}
+
+#add-task{
+    background-color: rgb(0, 149, 255);
+    color: white;
+    margin-top: 13px;
+    margin-bottom: 5px;
+}
+
+#add-section{
+    color: gray;
+    border: 1px solid gray;
+}
