@@ -1,0 +1,35 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+ul,
+ol,
+menu {
+	list-style: none;
+}
+
+.container {
+    height: 60px;
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.logo{
+    padding-top: 5px;
+}
+
+.logo-title {
+    font-size: 40px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 60px;
+}
+
+.main-main {
+    background-color: rgb(242, 241, 241);
+    height: 1000px;
+    width: 1024px;
+    margin: 0 auto;
+}
